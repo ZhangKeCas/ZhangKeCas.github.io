@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+欢迎来到我的github界面
+啦啦啦蠢蒋迪！
 
 You can use the [editor on GitHub](https://github.com/ZhangKeCas/ZhangKecas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
