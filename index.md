@@ -1,5 +1,5 @@
 ## Welcome to Zhang Ke's GitHub Pages
-欢迎来到我的github界面
+#欢迎来到我的github界面
 
 啦啦啦你是一只蠢蒋迪！
 
