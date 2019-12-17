@@ -1,11 +1,7 @@
 ## Welcome to Zhang Ke's GitHub Pages
-#欢迎来到我的github界面
+## 欢迎来到我的github界面
 
 啦啦啦你是一只蠢蒋迪！
-
-You can use the [editor on GitHub](https://github.com/ZhangKeCas/ZhangKecas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -38,3 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[editor](https://github.com/ZhangKeCas/ZhangKecas.github.io/edit/master/index.md)
